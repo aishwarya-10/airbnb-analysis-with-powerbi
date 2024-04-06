@@ -6,6 +6,8 @@ This project leverages the power of Power BI to deliver data-driven insights on 
 [**Demo**]()
 
 <br>
+![Featured-Malaysia-Airbnb-1066x440](https://github.com/aishwarya-10/airbnb-analysis-with-powerbi/assets/48954230/94fd6a94-c6be-45e6-8558-4dca6c446796)
+
 
 ## Airbnb: A Marketplace for Unique Stays
 Airbnb (short for AirBedandBreakfast) is a leading online marketplace for short-term homestays and experiences. Launched in 2008, it has revolutionized the travel industry by connecting people who have space to share (hosts) with those seeking unique accommodation options (guests).
