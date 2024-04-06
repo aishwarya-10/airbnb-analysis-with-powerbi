@@ -71,3 +71,7 @@ Here's a breakdown of what you might find in an Airbnb listing sample dataset:
 - Craft compelling visualizations that showcase key details, empowering users to effortlessly identify the perfect Airbnb listings.
 - Select a visually appealing theme for your dashboard to enhance user experience.
 - For public access, publish your dashboard to the web and generate an embed code to seamlessly integrate it into your website or platform.
+
+
+![Dashboard](https://github.com/aishwarya-10/airbnb-analysis-with-powerbi/assets/48954230/01737d04-8909-4fe0-93a7-0ebebbc327d8)
+
