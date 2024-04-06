@@ -18,7 +18,9 @@ The Airbnb data serves as the foundation for various analyses, including:
 
 **Host strategies:** Analyzing how hosts optimize their listings for bookings.
 
-### Basic Information:
+<br>
+
+## Basic Information:
 Here's a breakdown of what you might find in an Airbnb listing sample dataset:
 **Listing ID:** Unique identifier for each listing.
 
@@ -34,7 +36,7 @@ Here's a breakdown of what you might find in an Airbnb listing sample dataset:
 
 **Price:** Nightly rate set by the host.
 
-**Host Information:** Host name or ID (anonymized).
+**Host Information:** Hostname or ID (anonymized).
 
 **Description:** Detailed description of the property and surrounding area.
 
@@ -48,8 +50,8 @@ Here's a breakdown of what you might find in an Airbnb listing sample dataset:
 
 ## Approach
 ### Step 1: Data Collection
-- Create MongoDB Atlas account and deploy a database cluster.
-- Connect with **Compass** to view data locally.
+- Create a MongoDB Atlas account and deploy a database cluster.
+- Connect with **MongoDB Compass** to view data locally.
 - Later, load sample data into the database.
 
 <br>
