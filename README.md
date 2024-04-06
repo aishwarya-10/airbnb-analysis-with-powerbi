@@ -1,8 +1,8 @@
 # Airbnb Analysis with PowerBI
 This project leverages the power of Power BI to deliver data-driven insights on Airbnb listings, empowering you to make informed decisions.
 
-(**Dashboard**)[https://app.powerbi.com/view?r=eyJrIjoiODgzM2IwZWUtYTQ1OC00MzhkLTgzMjMtYjk3MGZhNmU4YzQzIiwidCI6IjA5MWYwZTcxLWIzMTAtNGMzYy1hMzI5LWYwNDNkNmRhM2IyZSJ9]
-(**Demo**)[]
+[**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODgzM2IwZWUtYTQ1OC00MzhkLTgzMjMtYjk3MGZhNmU4YzQzIiwidCI6IjA5MWYwZTcxLWIzMTAtNGMzYy1hMzI5LWYwNDNkNmRhM2IyZSJ9)
+[**Demo**]()
 
 <br>
 
