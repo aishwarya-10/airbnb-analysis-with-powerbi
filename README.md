@@ -22,6 +22,7 @@ The Airbnb data serves as the foundation for various analyses, including:
 
 ## Basic Information:
 Here's a breakdown of what you might find in an Airbnb listing sample dataset:
+
 **Listing ID:** Unique identifier for each listing.
 
 **Listing Title:** Descriptive title chosen by the host.
