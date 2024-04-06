@@ -2,31 +2,46 @@
 This project leverages the power of Power BI to deliver data-driven insights on Airbnb listings, empowering you to make informed decisions.
 
 [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODgzM2IwZWUtYTQ1OC00MzhkLTgzMjMtYjk3MGZhNmU4YzQzIiwidCI6IjA5MWYwZTcxLWIzMTAtNGMzYy1hMzI5LWYwNDNkNmRhM2IyZSJ9)
+
 [**Demo**]()
 
 <br>
 
 ## Airbnb: A Marketplace for Unique Stays
 Airbnb (short for AirBedandBreakfast) is a leading online marketplace for short-term homestays and experiences. Launched in 2008, it has revolutionized the travel industry by connecting people who have space to share (hosts) with those seeking unique accommodation options (guests).
+
 The Airbnb data serves as the foundation for various analyses, including:
 
 **Market trends:** Understanding pricing, property types, and amenities in specific locations.
+
 **Guest preferences:** Identifying trends in what guests look for (e.g., location, price range, amenities).
+
 **Host strategies:** Analyzing how hosts optimize their listings for bookings.
 
 ### Basic Information:
 Here's a breakdown of what you might find in an Airbnb listing sample dataset:
 **Listing ID:** Unique identifier for each listing.
+
 **Listing Title:** Descriptive title chosen by the host.
+
 **Property Type:** Category of the property (e.g., entire apartment, private room, house).
+
 **Location:** City, state/province, country.
+
 **Accommodation:** Number of bedrooms, bathrooms, and guests the property can accommodate.
+
 **Amenities:** List of features offered, such as Wi-Fi, kitchen, laundry facilities, etc.
+
 **Price:** Nightly rate set by the host.
+
 **Host Information:** Host name or ID (anonymized).
+
 **Description:** Detailed description of the property and surrounding area.
+
 **House Rules:** Specific rules set by the host for guests.
+
 **Reviews:** Ratings and comments left by previous guests.
+
 **Availability:** Calendar showing available dates for booking.
 
 <br>
