@@ -3,7 +3,7 @@ This project leverages the power of Power BI to deliver data-driven insights on 
 
 [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODgzM2IwZWUtYTQ1OC00MzhkLTgzMjMtYjk3MGZhNmU4YzQzIiwidCI6IjA5MWYwZTcxLWIzMTAtNGMzYy1hMzI5LWYwNDNkNmRhM2IyZSJ9)
 
-[**Demo**](https://www.linkedin.com/posts/aishwarya-velmurugan_greetings-excited-to-share-my-fourth-data-activity-7183474733538050049-KDdK?utm_source=share&utm_medium=member_desktop)
+[**Demo**](https://app.powerbi.com/view?r=eyJrIjoiODgzM2IwZWUtYTQ1OC00MzhkLTgzMjMtYjk3MGZhNmU4YzQzIiwidCI6IjA5MWYwZTcxLWIzMTAtNGMzYy1hMzI5LWYwNDNkNmRhM2IyZSJ9)
 
 <br>
 
